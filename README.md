@@ -1,1 +1,1 @@
-# recruitment_applicant_tracking_system
+# Recruitment Applicant Tracking System
