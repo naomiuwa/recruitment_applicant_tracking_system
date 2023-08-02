@@ -1,9 +1,9 @@
-function Interview () {
-    return (
-        <div>
-            Interview
-        </div>
-    ); 
+function Interview() {
+  return (
+    <div>
+      <h3> Interview </h3>
+    </div>
+  );
 }
 
-export default Interview 
+export default Interview;

@@ -1,0 +1,19 @@
+PLAN 
+
+App 
+1. Define the state for the Applicant List component (const [applicantsList, setApplicantsList] = useState([])   )
+2. Define the state for the Interview List component 
+3. Define the state for the Offer List component 
+
+Applicant List 
+1. Add this component to the App component 
+2. Pass the 'applicantsList' state down (as a prop) and the function to set state = setApplicantsList 
+3. Define a state to store new candidate names  
+4. Create an input box which allows the user to type in a new candidate
+5. While user is typing, save the candidate's name in state 
+6. Create a button which saves each new name => setApplicantsList( [...applicantsList, canName ])
+7. Render the applicantsList
+
+
+<ApplicantList list={applicantsList} setList={setApplicantsList} />
+
