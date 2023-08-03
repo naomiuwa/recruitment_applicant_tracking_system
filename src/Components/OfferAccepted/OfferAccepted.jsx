@@ -1,11 +1,9 @@
 function OfferAccepted() {
-    return (
-        <div>
-            <h2>
-                Offer Accepted
-            </h2>
-        </div>
-    ); 
+  return (
+    <div>
+      <h3>Offer Accepted</h3>
+    </div>
+  );
 }
 
-export default OfferAccepted; 
+export default OfferAccepted;

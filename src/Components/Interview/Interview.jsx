@@ -1,6 +1,8 @@
+import './Interview.css'
+
 function Interview() {
   return (
-    <div>
+    <div className= "InterviewContainer">
       <h3> Interview </h3>
     </div>
   );

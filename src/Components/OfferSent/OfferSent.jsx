@@ -1,9 +1,9 @@
-function OfferSent () {
-    return (
-        <div>
-            <h2>Offer Sent</h2>
-        </div>
-    ); 
+function OfferSent() {
+  return (
+    <div>
+      <h3>Offer Sent</h3>
+    </div>
+  );
 }
 
-export default OfferSent; 
+export default OfferSent;
