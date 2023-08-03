@@ -7,7 +7,7 @@ App
 
 Applicant List
 1. Add this component to the App component 
-2. Pass the 'applicantsList' state down (as a prop) and the function to set state = setApplicantsList 
+2. Pass the 'candidateName' state down (as a prop) and the function to set state = setCandidateName 
 3. Define a state to store new candidate names  
 4. Create an input box which allows the user to type in a new candidate
 5. While user is typing, save the candidate's name in state 
