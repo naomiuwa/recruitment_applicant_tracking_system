@@ -5,7 +5,7 @@ App
 2. Define the state for the Interview List component 
 3. Define the state for the Offer List component 
 
-Applicant List 
+Applicant List
 1. Add this component to the App component 
 2. Pass the 'applicantsList' state down (as a prop) and the function to set state = setApplicantsList 
 3. Define a state to store new candidate names  
